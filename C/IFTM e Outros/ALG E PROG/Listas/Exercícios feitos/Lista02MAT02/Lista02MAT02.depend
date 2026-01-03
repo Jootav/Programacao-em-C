@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1733234110 source:d:\alg e prog\salvamento\listas\codeblocks\lista02mat02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+

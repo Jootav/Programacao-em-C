@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1732045908 source:e:\l_mat05_ex03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+
+1732054802 source:d:\alg e prog\salvamento\listas\codeblocks\l_mat05_ex03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+

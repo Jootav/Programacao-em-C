@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1725318906 source:e:\alg e prog\salvamento\listas\codeblocks\lista03a_ex008\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1725319062 source:c:\users\caupt - alunos\desktop\lista03a_ex008\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1725319334 source:d:\alg e prog\salvamento\listas\codeblocks\lista03a_ex008\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1730227448 source:d:\alg e prog\salvamento\resolução listas\resolucao_inserir_excluir_nr_vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<math.h>
+
+1730227448 source:e:\alg e prog\salvamento\resolução listas\resolucao_inserir_excluir_nr_vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<math.h>
+

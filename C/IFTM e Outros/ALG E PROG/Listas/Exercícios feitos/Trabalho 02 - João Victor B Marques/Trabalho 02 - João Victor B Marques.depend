@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1730812230 source:d:\alg e prog\salvamento\listas\codeblocks\trabalho 02 - joão victor b marques\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<locale.h>
+

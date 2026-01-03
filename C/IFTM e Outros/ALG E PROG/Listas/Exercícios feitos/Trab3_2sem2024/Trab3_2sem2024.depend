@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1733231900 source:d:\alg e prog\salvamento\listas\codeblocks\trab3_2sem2024\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+

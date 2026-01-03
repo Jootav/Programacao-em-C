@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1727314638 source:c:\users\jotav\desktop\alg e prog\salvamento\resolução listas\resolucao_lista07b_menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<math.h>
+

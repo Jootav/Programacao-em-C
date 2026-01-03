@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1733178970 source:d:\alg e prog\salvamento\resolução listas\validar_repetidos_matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1733178970 source:e:\alg e prog\salvamento\resolução listas\validar_repetidos_matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+

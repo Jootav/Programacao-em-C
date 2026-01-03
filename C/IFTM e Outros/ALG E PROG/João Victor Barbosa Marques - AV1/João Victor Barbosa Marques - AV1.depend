@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1727742624 source:e:\joão victor barbosa marques - av1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+
+1727743116 source:d:\joão victor barbosa marques - av1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+

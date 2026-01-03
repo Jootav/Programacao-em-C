@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728408966 source:d:\lista01_vetor_ex01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<locale.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1727130252 source:e:\alg e prog\salvamento\listas\codeblocks\lista06menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<locale.h>
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1727359990 source:d:\alg e prog\salvamento\listas\codeblocks\trabalho01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<locale.h>
+
+1727360542 source:c:\users\jotav\desktop\alg e prog\salvamento\listas\codeblocks\trabalho01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<locale.h>
+

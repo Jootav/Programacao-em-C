@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1731367276 source:e:\l_mat01_ex02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+

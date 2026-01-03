@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1728935073 source:c:\users\ernan\desktop\a_resolucoes_exercicios_em2024\segundo_semestre\engcomp\resoilucao_ordenar_vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
