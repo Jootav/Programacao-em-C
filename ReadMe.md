@@ -1,0 +1,1 @@
+Exercícios propostos resolvidos por mim em linguagem C e C++.
