@@ -1,1 +1,1 @@
-Exercícios propostos resolvidos por mim em linguagem C e C++.
+C and C++ programming exercises and assignments solved throughout my Information Systems undergraduate studies at FACOM-UFU.
