@@ -1,0 +1,4 @@
+Joao Victor Barbosa Marques é maior de idade.
+Pedro Batista está entrando na maior idade.
+Victor Lima é maior de idade.
+Matheus Batista é menor de idade.

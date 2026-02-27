@@ -1,0 +1,10 @@
+NOME: JOAO                                     | NOTA: 8
+NOME: MARIA                                    | NOTA: 9
+NOME: VICTOR                                   | NOTA: 9
+NOME: PEDRO                                    | NOTA: 1
+NOME: SABRINA                                  | NOTA: 7
+NOME: MALU                                     | NOTA: 5
+NOME: CADU                                     | NOTA: 5
+NOME: SERGIO                                   | NOTA: 10
+NOME: PAULO                                    | NOTA: 1
+NOME: CASSANDRA                                | NOTA: 0

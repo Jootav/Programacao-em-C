@@ -1,0 +1,8 @@
+Nome da pessoa: Jota | Idade: 20
+Nome da pessoa: Carlos | Idade: 20
+Nome da pessoa: Pedro | Idade: 19
+Nome da pessoa: Maria | Idade: 21
+Nome da pessoa: Lucas | Idade: 24
+Nome da pessoa: Sofia | Idade: 25
+Nome da pessoa: Julia | Idade: 16
+Nome da pessoa: Paulo | Idade: 22
